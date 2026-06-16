@@ -7,3 +7,4 @@ models/
 data/
 NaiveBayes.ipynb
 RuBERT.ipynb
+__pycache__
