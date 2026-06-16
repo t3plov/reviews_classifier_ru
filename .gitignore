@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.gitignore
+.idea/
+/.env
+.venv/
+models/
+data/
+NaiveBayes.ipynb
+RuBERT.ipynb
