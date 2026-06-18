@@ -22,7 +22,7 @@ class RuBERTModel:
         self.label_map = {
             0: "Негативный",
             1: "Нейтральный",
-            2: "Позитивный "
+            2: "Позитивный"
         }
 
     def predict(self, text: str) -> dict:
